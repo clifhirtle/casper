@@ -3,6 +3,7 @@
 # Configure Dock items using DockUtil via JAMF Casper
 # Cliff Hirtle, 3/5/14, http://linkedin.com/in/clifhirtle
 # See dockutil on GitHub: https://github.com/kcrawford/dockutil
+# See Casper discussions/article: https://jamfnation.jamfsoftware.com/viewProduct.html?id=203
 
 
 #### Read in the parameters
